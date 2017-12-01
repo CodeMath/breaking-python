@@ -6,6 +6,7 @@
 
 ## Python 문법
 
+* [프로그래밍이란?](d504-b85c-adf8-b798-bc0d-c774-b7803f.md)
 * [Python 입문](python-c785-bb38.md)
 * [Python 실행하기](python-c2e4-d589-d558-ae30.md)
 * [Python 수와 계산](python-c218-c640-acc4-c0b0.md)
