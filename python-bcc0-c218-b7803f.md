@@ -94,21 +94,7 @@ print "한 줄로 정리하면, %s 에 거주 중인 %d 년차 %s %s 입니다."
 
 2. 마지막 `print "한 줄로 정리하면, %s 에 거주 중인 %d 년차 %s %s 입니다." %(my_region, th_year, main_language, my_career)` 문에서 `%d`가 아니라 `%s` 로 해서 출력해보세요.
 
-
-
-
-
 ---
-
-
-
-
-
-
-
-
-
-
 
 
 
